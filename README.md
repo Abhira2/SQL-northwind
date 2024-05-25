@@ -1,5 +1,6 @@
 # SQL-northwind
 
+<img width="402" alt="image" src="https://github.com/Abhira2/SQL-northwind/assets/113661749/aa694c65-5d8d-45c0-afab-17f8011076eb">
 
 1.	Write a query to get current Product list (Product ID and name).
 2.	Write a query to get Product list (name, unit price) where products cost between $15 and $25. 
