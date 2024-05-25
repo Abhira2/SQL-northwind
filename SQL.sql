@@ -1,7 +1,3 @@
--- Name: Abhirami Kapilan
-
--- Complete Question 1, 7, 12 and 15 - Mandatory
--- The rest of the questions are optional 
 
 --Q1
 SELECT product_id, product_name
